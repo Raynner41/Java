@@ -9,11 +9,16 @@ class mascotita{
         this.Raza = Raza;
         this.Peso=Peso;
     }
-    public void comer(){Peso++;}
+    public void comer()  {
+        Peso++; }
     
-    public String toString()
-    {return "\n\tNombre: "+ Nombre + "\n\tRAza: "+ Raza + "\n\tPeso: "+ Peso; }
+    
+    public String toString() {
+        return "\n\tNombre: "+ Nombre + "\n\tRaza: "+ Raza + "\n\tPeso: "+ Peso; 
     }
+    
+   
+ }
     
 public class Mascota {
     public static void main(String[] args) {

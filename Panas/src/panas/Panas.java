@@ -20,9 +20,5 @@ public class Panas {
         System.out.println(am1);
         System.out.println(am2);
         System.out.println(am3);
-        
-        
-        
     }
-    
 }

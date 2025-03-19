@@ -1,2 +1,0 @@
-panas.Amigos
-panas.Panas
