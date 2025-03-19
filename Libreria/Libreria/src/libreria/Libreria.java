@@ -60,7 +60,7 @@ public class Libreria {
         li.num_ejemplares++;
         }
         else
-            System.out.println("Este ejemplar no corresponde a la tienda");
+            System.out.println("Este ejemplar no corresponde a la tienda >:v");
     }
     
     public String toString() {
@@ -83,8 +83,5 @@ public class Libreria {
         System.out.println("\nLibro 5:" + libro5.toString());
         libro5.Devolucion(libro5);
         System.out.println("\nLibro 5: 'Despues de la devolucion'" + libro5.toString());
-        
-    
-      
     }
 }
